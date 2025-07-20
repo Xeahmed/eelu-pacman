@@ -1,13 +1,13 @@
 # EELU Pac-Man 🎮✨ (v1.0)
 
-![Pac-Man](https://img.shields.io/badge/Pac-Man-yellow)  
-[![GitHub](https://img.shields.io/badge/GitHub-Xeahmed-181717?logo=github)](https://github.com/Xeahmed/eelu-pacman)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed%20Refat-0A66C2?logo=linkedin)](https://www.linkedin.com/in/ahmed-refat-mohamed/)  
-[![X](https://img.shields.io/badge/X-@xeahmed2-000000?logo=x)](https://x.com/xeahmed2)  
-[![License](https://img.shields.io/badge/License-MIT-blue?logo=license)](LICENSE)  
-![C++](https://img.shields.io/badge/C++-17-00599C?logo=cplusplus)  
-![OpenGL](https://img.shields.io/badge/OpenGL-GLUT-5586A4?logo=opengl)  
-[![EELU](https://img.shields.io/badge/EELU-Computer%20Graphics-green?logo=university)](https://eelu.edu.eg)
+![Pac-Man](https://img.shields.io/badge/Pac-Man-yellow?scale=1.5)  
+[![GitHub](https://img.shields.io/badge/GitHub-Xeahmed-181717?logo=github&scale=1.5)](https://github.com/Xeahmed/eelu-pacman)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed%20Refat%20Mohamed-0A66C2?logo=linkedin&scale=1.5)](https://www.linkedin.com/in/ahmed-refat-mohamed/)  
+[![X](https://img.shields.io/badge/X-@xeahmed2-000000?logo=x&scale=1.5)](https://x.com/xeahmed2)  
+[![License](https://img.shields.io/badge/License-MIT-blue?logo=octicons-law&scale=1.5)](LICENSE)  
+![C++](https://img.shields.io/badge/C++-17-00599C?logo=cplusplus&scale=1.5)  
+![OpenGL](https://img.shields.io/badge/OpenGL-GLUT-5586A4?logo=opengl&scale=1.5)  
+[![EELU](https://img.shields.io/badge/EELU-Computer%20Graphics-green?logo=university&scale=1.5)](https://eelu.edu.eg)
 
 
 Welcome to **EELU Pac-Man**, a vibrant reimagination of the classic arcade game crafted for the **Computer Graphics** course at the **Egyptian E-Learning University (EELU) - Faculty of IT**. Built with **C++** and **OpenGL (GLUT)**, this project (v1.0, Released: July 2025) features a 37x37 maze, smart ghost AI, and fluid animations. Guide Pac-Man, gobble dots, and outwit four ghosts in this nostalgic yet cutting-edge experience! 🎉
