@@ -1,13 +1,14 @@
 # EELU Pac-Man 🎮✨ (v1.0)
 
 ![Pac-Man](https://img.shields.io/badge/Pac-Man-yellow)  
-[![GitHub](https://img.shields.io/badge/GitHub-Xeahmed-181717?style=for-the-badge&logo=github)](https://github.com/Xeahmed/eelu-pacman)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed%20Refat%20Mohamed-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ahmed-refat-mohamed/)  
-[![X](https://img.shields.io/badge/X-@xeahmed2-000000?style=for-the-badge&logo=x)](https://x.com/xeahmed2)  
-[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)  
-![C++](https://img.shields.io/badge/C++-17-00599C?style=for-the-badge&logo=cplusplus)  
-![OpenGL](https://img.shields.io/badge/OpenGL-GLUT-5586A4?style=for-the-badge&logo=opengl)  
-[![EELU](https://img.shields.io/badge/EELU-Computer%20Graphics-green?style=for-the-badge)](https://eelu.edu.eg)
+[![GitHub](https://img.shields.io/badge/GitHub-Xeahmed-181717?logo=github)](https://github.com/Xeahmed/eelu-pacman)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed%20Refat-0A66C2?logo=linkedin)](https://www.linkedin.com/in/ahmed-refat-mohamed/)  
+[![X](https://img.shields.io/badge/X-@xeahmed2-000000?logo=x)](https://x.com/xeahmed2)  
+[![License](https://img.shields.io/badge/License-MIT-blue?logo=license)](LICENSE)  
+![C++](https://img.shields.io/badge/C++-17-00599C?logo=cplusplus)  
+![OpenGL](https://img.shields.io/badge/OpenGL-GLUT-5586A4?logo=opengl)  
+[![EELU](https://img.shields.io/badge/EELU-Computer%20Graphics-green?logo=university)](https://eelu.edu.eg)
+
 
 Welcome to **EELU Pac-Man**, a vibrant reimagination of the classic arcade game crafted for the **Computer Graphics** course at the **Egyptian E-Learning University (EELU) - Faculty of IT**. Built with **C++** and **OpenGL (GLUT)**, this project (v1.0, Released: July 2025) features a 37x37 maze, smart ghost AI, and fluid animations. Guide Pac-Man, gobble dots, and outwit four ghosts in this nostalgic yet cutting-edge experience! 🎉
 
