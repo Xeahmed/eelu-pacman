@@ -1,8 +1,8 @@
 # EELU Pac-Man 🎮✨ (v1.0)
 
-[![Pac-Man](https://img.shields.io/badge/Pac-Man-yellow?style=for-the-badge)](https://github.com/Xeahmed/eelu-pacman)   
+[![Pac-Man](https://img.shields.io/badge/Pac-Man-yellow?style=for-the-badge&logo=ghostery)](https://github.com/Xeahmed/eelu-pacman)   
 [![GitHub](https://img.shields.io/badge/GitHub-Xeahmed-181717?style=for-the-badge&logo=github)](https://github.com/Xeahmed/eelu-pacman)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed%20Refat%20Mohamed-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ahmed-refat-mohamed/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed%20Refat%20Mohamed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-refat-mohamed/)   
 [![X](https://img.shields.io/badge/`-@xeahmed2-000000?style=for-the-badge&logo=x)](https://x.com/xeahmed2)  
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge&logo=open-source-initiative)](LICENSE)   
 ![C++](https://img.shields.io/badge/C++-17-00599C?style=for-the-badge&logo=cplusplus)  
@@ -103,7 +103,7 @@ Welcome to **EELU Pac-Man**, a vibrant reimagination of the classic arcade game 
 ## 🎥 Demo
 
 <p align="center">
-  <img src="screenshots/demo.gif" width="250">
+  <img src="./screenshots/demo.gif" width="500">
 </p>
 
 ---
