@@ -100,10 +100,10 @@ Welcome to **EELU Pac-Man**, a vibrant reimagination of the classic arcade game 
 
 ---
 
-## 🎥 Demo Video
+## 🎥 Demo
 
 <p align="center">
-https://github.com/Xeahmed/eelu-pacman/issues/1#issue-3246692268
+  <img src="screenshots/demo.gif" width="250">
 </p>
 
 ---
