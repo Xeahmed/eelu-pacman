@@ -1,6 +1,6 @@
 # EELU Pac-Man 🎮✨ (v1.0)
 
-![Pac-Man](https://img.shields.io/badge/Pac-Man-Classic%20Game-yellow?style=for-the-badge&logo=gamepad&labelColor=orange)  
+![Pac-Man](https://img.shields.io/badge/Pac-Man-yellow)  
 [![GitHub](https://img.shields.io/badge/GitHub-Xeahmed-181717?style=for-the-badge&logo=github)](https://github.com/Xeahmed/eelu-pacman)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed%20Refat%20Mohamed-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ahmed-refat-mohamed/)  
 [![X](https://img.shields.io/badge/X-@xeahmed2-000000?style=for-the-badge&logo=x)](https://x.com/xeahmed2)  
@@ -59,7 +59,7 @@ Welcome to **EELU Pac-Man**, a vibrant reimagination of the classic arcade game 
    - **Windows**: Install FreeGLUT and configure with your IDE (e.g., Visual Studio).  
 3. **Compile the Code**:  
    ```bash
-   g++ main.cpp -o pacman -lGL -lGLU -lglut
+   g++ source.cpp -o pacman -lGL -lGLU -lglut
    ```
 4. **Run the Game**:  
    ```bash
@@ -102,7 +102,7 @@ Welcome to **EELU Pac-Man**, a vibrant reimagination of the classic arcade game 
 ## 🎥 Demo Video
 
 <p align="center">
-  <video controls width="600" style="border-radius: 10px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);">
+  <video controls preload="auto" width="600" style="border-radius: 10px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);">
     <source src="screenshots/demo.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
@@ -162,5 +162,5 @@ Developed by **Eng. Ahmed Refat Mohamed** for the Computer Graphics course at EE
 - Thanks to EELU for supporting student innovation.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt8dX5nTLVGRl6w/giphy.gif" alt="Pac-Man Animation" width="250">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTNoc2FnMndnbWVlZnlmd3U0b2I0bWswaGp1N3RheHlsbmY3azA0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7HdgWDtZyc8HOX848k/giphy.gif" alt="Pac-Man Animation" width="250">
 </p>
