@@ -1,4 +1,4 @@
-# EELU Pac-Man 🎮✨
+# EELU Pac-Man 🎮✨ (v1.0)
 
 ![Pac-Man](https://img.shields.io/badge/Pac-Man-Classic%20Game-yellow?style=for-the-badge&logo=gamepad&labelColor=orange)  
 [![GitHub](https://img.shields.io/badge/GitHub-Xeahmed-181717?style=for-the-badge&logo=github)](https://github.com/Xeahmed/eelu-pacman)  
@@ -9,10 +9,10 @@
 ![OpenGL](https://img.shields.io/badge/OpenGL-GLUT-5586A4?style=for-the-badge&logo=opengl)  
 [![EELU](https://img.shields.io/badge/EELU-Computer%20Graphics-green?style=for-the-badge)](https://eelu.edu.eg)
 
-Welcome to **EELU Pac-Man**, a vibrant reimagination of the classic arcade game crafted for the **Computer Graphics** course at the **Egyptian E-Learning University (EELU) - Faculty of IT**. Built with **C++** and **OpenGL (GLUT)**, this project boasts a 37x37 maze, smart ghost AI, and fluid animations. Guide Pac-Man, gobble dots, and outwit four ghosts in this nostalgic yet cutting-edge experience! 🎉
+Welcome to **EELU Pac-Man**, a vibrant reimagination of the classic arcade game crafted for the **Computer Graphics** course at the **Egyptian E-Learning University (EELU) - Faculty of IT**. Built with **C++** and **OpenGL (GLUT)**, this project (v1.0, Released: July 2025) features a 37x37 maze, smart ghost AI, and fluid animations. Guide Pac-Man, gobble dots, and outwit four ghosts in this nostalgic yet cutting-edge experience! 🎉
 
 <p align="center">
-  <img src="screenshots/StartScreen.png" alt="Start Screen" width="600" style="border-radius: 15px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3); animation: fadeIn 2s;">
+  <img src="screenshots/StartScreen.png" alt="Start Screen" width="600" style="border-radius: 15px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);">
 </p>
 
 ---
@@ -21,10 +21,10 @@ Welcome to **EELU Pac-Man**, a vibrant reimagination of the classic arcade game 
 
 - **Classic Gameplay**: Navigate Pac-Man to eat dots and power pellets while dodging ghosts.  
 - **Intelligent Ghost AI**:  
-  - 🟥 **Blinky**: Aggressive chaser.  
-  - 🟪 **Pinky**: Ambushes with prediction.  
-  - 🟦 **Inky**: Strategic pursuit using Blinky's position.  
-  - 🟧 **Clyde**: Toggles between chase and scatter.  
+  - :ghost: **Blinky**: Aggressive chaser (Red).  
+  - :ghost: **Pinky**: Ambushes with prediction (Pink).  
+  - :ghost: **Inky**: Strategic pursuit (Cyan).  
+  - :ghost: **Clyde**: Toggles between chase and scatter (Orange).  
 - **Dynamic Modes**: Ghosts switch between Chase, Scatter, Frightened, and Eaten.  
 - **Smooth Animations**: Pac-Man’s mouth moves with a sine wave; ghosts have expressive eyes.  
 - **Optimized Rendering**: Utilizes OpenGL display lists for efficient maze drawing.  
@@ -103,7 +103,7 @@ Welcome to **EELU Pac-Man**, a vibrant reimagination of the classic arcade game 
 
 <p align="center">
   <video controls width="600" style="border-radius: 10px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);">
-    <source src="screenshots/demo.mp4" type="video/x-matroska">
+    <source src="screenshots/demo.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </p>
@@ -162,16 +162,5 @@ Developed by **Eng. Ahmed Refat Mohamed** for the Computer Graphics course at EE
 - Thanks to EELU for supporting student innovation.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt8dX5nTLVGRl6w/giphy.gif" alt="Pac-Man Animation" width="250" style="animation: bounce 2s infinite;">
+  <img src="https://media.giphy.com/media/3o6Zt8dX5nTLVGRl6w/giphy.gif" alt="Pac-Man Animation" width="250">
 </p>
-
-<style>
-@keyframes fadeIn {
-  0% { opacity: 0; }
-  100% { opacity: 1; }
-}
-@keyframes bounce {
-  0%, 100% { transform: translateY(0); }
-  50% { transform: translateY(-15px); }
-}
-</style>
