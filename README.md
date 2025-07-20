@@ -103,7 +103,7 @@ Welcome to **EELU Pac-Man**, a vibrant reimagination of the classic arcade game 
 
 <p align="center">
   <video controls width="600" style="border-radius: 10px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);">
-    <source src="screenshots/demo.mkv" type="video/x-matroska">
+    <source src="screenshots/demo.mp4" type="video/x-matroska">
     Your browser does not support the video tag.
   </video>
 </p>
